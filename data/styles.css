@@ -20,6 +20,8 @@
 }
 .placeholder {
 }
+.button {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -72,6 +74,9 @@
   text-align:left;
 }
 .line {
+}
+.radio_button {
+  text-align:left;
 }
 .sticky_1 {
   text-align:left;
